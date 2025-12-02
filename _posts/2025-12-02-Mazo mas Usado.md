@@ -4,7 +4,6 @@ title: "Mazo mas Usado"
 author: "Gabriel"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
 ---
 
 # 🧩 Mazos más usados en Clash Royale — Análisis del meta actual

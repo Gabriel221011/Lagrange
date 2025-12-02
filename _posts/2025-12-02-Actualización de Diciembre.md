@@ -4,7 +4,6 @@ title: "Actualización Diciembre"
 author: "Gabriel"
 categories: journal
 tags: [documentation,sample]
-image: cutting.jpg
 ---
 
 # 🛡️ Actualización de Clash Royale – Diciembre 2025  

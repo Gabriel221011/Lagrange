@@ -4,7 +4,6 @@ title: "Guerra de Clanes"
 author: "Gabriel"
 categories: journal
 tags: [documentation,sample]
-image: spools.jpg
 ---
 
 # 🛡️ Clanes y Guerras de Clanes en Clash Royale
