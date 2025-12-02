@@ -1,42 +1,66 @@
 ---
 layout: post
-title: "Welcome to Lagrange!"
-author: "Paul Le"
+title: "Mazo mas Usado"
+author: "Gabriel"
 categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+# 🧩 Mazos más usados en Clash Royale — Análisis del meta actual
 
-## Getting Started
+## 🎯 Mazo destacado: **Hog 2.6 Cycle**
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+![jekyll]({{"/assets/img/imagen10.webp" | absolute_url}})
 
-## Example Content
+Este mazo — conocido como *Hog 2.6* — sigue apareciendo entre los mazos más populares y efectivos del meta actual.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+### 🔹 Composición típica del mazo
+Un ejemplo típico de Hog 2.6 incluye cartas como:
+- MontaPuercos — condición de victoria principal
+- Cartas de ciclo/baratas como Golem de Hielo, Esqueletos, etc.
+- Hechizos/utilitarios como The Log para defensa y control del campo
 
-## Questions?
+> 💡 Este mazo tiene un coste de elixir bajo (aproximadamente 2.6), lo que permite lanzar ataques rápidos y frecuentes.
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+---
 
-## More Jekyll!
+## ✅ Ventajas del mazo Hog 2.6
 
-### Millennial
+![jekyll]({{"/assets/img/imagen12.jpg" | absolute_url}})
 
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
+- **Velocidad y ciclo rápido**: permite reciclar la mano rápido y defender sin gastar mucho elixir.
+- **Presión constante**: Hog Rider permite aplicar presión y obligar al rival a defender.
+- **Versatilidad defensiva y de control**: cartas baratas y de control permiten responder a múltiples amenazas.
+- **Accesible**: no requiere muchas cartas raras o legendarias, fácil de montar y adaptar.
 
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
+---
 
-### Portfolio Jekyll Theme
+## ⚠️ Desventajas / puntos débiles
 
-This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clean and simple website for your portfolio. Emphasis is placed on your projects, which are shown front and center on the home page.
+![jekyll]({{"/assets/img/imagen11.png" | absolute_url}})
 
-Everything that you will ever need to know about this Jekyll theme is included in [the repository](https://github.com/LeNPaul/portfolio-jekyll-theme), which you can also find in [the demo site](https://lenpaul.github.io/portfolio-jekyll-theme/).
+- **Daño limitado por torre**: depende de MontaPuercos como condición de victoria.
+- **Dependencia del ciclo y ritmo**: perder control del ciclo de elixir puede ser crítico.
+- **Menos efectividad contra mazos pesados**: mazos beatdown o con tanques fuertes pueden resistir.
+- **Requiere buena gestión de elixir y timing**, especialmente en niveles altos.
 
-### Jekyll Starter Kit
+---
 
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
+## 📊 Por qué sigue entre los más usados
 
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
+- Los mazos de ciclo y bajo coste dominan en ladder.
+- Cartas de ciclo y control como The Log son de las más usadas.
+- Es fiable para subir trofeos o jugar de forma constante, con menor dependencia de cartas de alto coste.
+
+---
+
+## 🎯 Para quién es ideal este mazo
+
+- Jugadores que prefieren un estilo rápido y constante.
+- Aquellos con pocas cartas raras o legendarias.
+- Personas cómodas gestionando elixir, ritmo de juego y alternancia defensa-ataque.
+
+---
+
+
