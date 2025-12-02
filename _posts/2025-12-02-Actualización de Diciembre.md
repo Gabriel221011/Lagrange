@@ -9,7 +9,7 @@ tags: [documentation,sample]
 # 🛡️ Actualización de Clash Royale – Diciembre 2025  
 ## Todo lo que debes saber sobre la última gran versión del juego
 
-![jekyll]({{"/assets/img/imagen5.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen5.png" | absolute_url}})
 
 La actualización de **diciembre de 2025** llega con algunos de los cambios más grandes que ha recibido Clash Royale en años. Nuevos sistemas, nuevas mecánicas y una progresión completamente renovada hacen que el juego vuelva a sentirse fresco tanto para jugadores nuevos como veteranos.
 
@@ -21,7 +21,7 @@ La actualización de **diciembre de 2025** llega con algunos de los cambios más
 La llegada de los **Héroes** es la característica más destacada de esta actualización.  
 Se trata de unidades especiales inspiradas en cartas clásicas, pero con habilidades activas o pasivas que alteran la estrategia tradicional.
 
-![jekyll]({{"/assets/img/imagen4.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen4.png" | absolute_url}})
 
 Los primeros héroes lanzados incluyen:
 
@@ -36,7 +36,7 @@ Su función es aportar una capa adicional de estrategia en mazos orientados al c
 
 ## 🏆 Trophy Road renovado: hasta **12.000 trofeos**
 
-![jekyll]({{"/assets/img/imagen6.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen6.png" | absolute_url}})
 
 El clásico camino de trofeos ha sido ampliado a un máximo de **12.000 trofeos**, añadiendo:
 
@@ -65,9 +65,9 @@ Premian a jugadores con cartas ya maximizadas, permitiendo:
 - Obtener recursos especiales  
 - Dar utilidad a copias sobrantes  
 
-![jekyll]({{"/assets/img/imagen7.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen7.png" | absolute_url}})
 
-![jekyll]({{"/assets/img/imagen8.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen8.png" | absolute_url}})
 
 Las recompensas ahora son más transparentes y menos dependientes del azar.
 
@@ -82,7 +82,7 @@ La actualización también trae:
 - Mejor interfaz y mejor experiencia visual  
 - Balance general de cartas para mantener competitivo el meta
 
-![jekyll]({{"/assets/img/imagen9.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen9.png" | absolute_url}})
 
 ---
 
