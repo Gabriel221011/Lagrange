@@ -1,22 +1,76 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Guerra de Clanes"
+author: "Gabriel"
 categories: journal
 tags: [documentation,sample]
 image: spools.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+# 🛡️ Clanes y Guerras de Clanes en Clash Royale
 
-## [Free Code Camp](https://www.freecodecamp.org/)
+## 👥 ¿Qué es un clan?
 
-My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.
+![jekyll]({{"/assets/img/imagen13.webp" | absolute_url}})
 
-## [Codecademy](https://www.codecademy.com/)
+Un **clan** en Clash Royale es un grupo de jugadores que se unen para compartir cartas, ayudarse mutuamente, jugar juntos y participar en actividades colectivas como las guerras de clanes o batallas amistosas.
 
-Not only does Codecademy have many great courses on various web development languages such as [HTML](https://www.codecademy.com/learn/learn-html), [CSS](https://www.codecademy.com/learn/learn-css), and [JavaScript](https://www.codecademy.com/learn/introduction-to-javascript), but they even offer a course on [how to deploy a Jekyll site](https://www.codecademy.com/learn/deploy-a-website). If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.
+### ✅ Ventajas de pertenecer a un clan
 
-## [Khan Academy](https://www.khanacademy.org/)
+![jekyll]({{"/assets/img/imagen16.jpg" | absolute_url}})
 
-A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also [computer programming](https://www.khanacademy.org/computing/computer-programming). What Khan Academy offers that is different from the other two above resources is that it offers courses in [computer science related](https://www.khanacademy.org/computing/computer-science) topics, such as [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and [cryptography](https://www.khanacademy.org/computing/computer-science/cryptography). This is unique in that most online resources mostly focus on the programming side of things.
+- Puedes pedir cartas prestadas regularmente, lo que acelera tus mejoras y progresión.
+- Puedes donar cartas a otros jugadores y recibir oro y experiencia de clan.
+- Permite compartir estrategias, probar mazos y mejorar tu juego en equipo.
+- Puedes participar en batallas amistosas o colaborativas para practicar sin riesgo.
+
+---
+
+## ⚔️ Guerras de Clanes — ¿qué son y cómo funcionan?
+
+![jekyll]({{"/assets/img/imagen14.webp" | absolute_url}})
+
+Las **Guerras de Clanes** son eventos en los que varios clanes compiten entre sí para ganar recompensas, trofeos de clan y prestigio.
+
+### 🎯 Formato actual de las Guerras de Clanes
+
+- Las guerras se desarrollan en ciclos semanales, con varios días de batalla.
+- Para que una guerra comience, el clan debe tener al menos 10 participantes elegibles.
+- La guerra enfrenta a tu clan contra otros clanes en una “River Race”, donde cada clan intenta avanzar su barco antes que los demás.
+- Cada día de batalla puedes hacer ataques con tu mazo de guerra, sumando puntos para tu clan.
+
+### 🎁 Recompensas y progreso
+
+![jekyll]({{"/assets/img/imagen15.jpg" | absolute_url}})
+
+- Participar ofrece recompensas como oro, cartas, trofeos de clan y botines especiales según desempeño.
+- Ganar guerras o contribuir con buenos resultados otorga experiencia de clan, permitiendo subir el nivel del clan y desbloquear beneficios.
+- Incluso si el clan pierde, los participantes pueden recibir recompensas menores si atacan alguna base.
+
+---
+
+## ⚠️ Consideraciones y consejos para clanes y guerras
+
+- Asegúrate de que los miembros estén activos para aprovechar premios y buen desempeño.
+- Coordina bien los ataques y la estrategia: un clan organizado tiene más opciones de ganar.
+- Donar cartas regularmente ayuda a mantener al clan fuerte.
+- Participa en las guerras solo si puedes comprometerte y contribuir.
+
+---
+
+## 🎯 ¿Para quién es ideal un clan + guerra de clanes?
+
+- Jugadores que quieren progresar más rápido pidiendo y donando cartas.
+- Jugadores que disfrutan del juego cooperativo y la estrategia colectiva.
+- Aquellos que buscan recompensas adicionales además de las partidas individuales.
+- Jugadores activos que pueden comprometerse en momentos claves del clan.
+
+---
+
+## ✅ Conclusión
+
+Los clanes y las guerras de clanes son una de las mejores formas de aprovechar Clash Royale. Ayudan a progresar más rápido, mejorar la colección de cartas, añadir dimensión social, competencia entre grupos, estrategia colectiva y recompensas extra. Unirse a un clan y participar activamente en guerras es muy recomendable.
+
+
+
+
