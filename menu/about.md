@@ -1,19 +1,16 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Acerca de Mi
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+# Presentación
 
-### Getting Started
+Hola soy ***Gabriel*** y en mi tiempo libre me gusta jugar a juegos, ultimamente le dedico tiempo al ***Clash Royale***. Es un juego que consiste en derribar las torres enemigas desplegando tropas en un campo de batalla. Es un **juego** muy entretenido en el que tienes que emplear toda tu táctica y estrategia en el campo.
+A si que he decidido crear mi página sobre el ***Clash Royale***, mas tarde hablaremos de ello.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+![jekyll]({{"/assets/img/Imagen18.jpg" | absolute_url}})
 
-### Example Content
+En cuanto a mi, el **futbol** es mi *pasión*. Desde los 5 años llevo jugando al **futbol** y ni un dia me he cansado de él. También me gusta pasar el tiempo con la ***familia*** y ***amigos***. Soy un chico **amigable**, **sociable**, **émpatico** y **cariñoso**. Sobre todo ***trabajador***.
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+![jekyll]({{"/assets/img/imagen17.webp" | absolute_url}})
