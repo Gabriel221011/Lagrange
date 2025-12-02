@@ -47,6 +47,6 @@
 
 ## ✅ Conclusión
 
-![jekyll]({{"/assets/img/Imagen3.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/imagen3.jpg" | absolute_url}})
 
 **“El Tronco”** es una de las cartas más queridas y utilizadas en Clash Royale debido a su versatilidad, bajo coste, eficiencia defensiva y capacidad para controlar el campo con facilidad. Aunque no cuenta con evolución, su fortaleza y utilidad la mantienen como una de las cartas más valiosas del meta actual.
