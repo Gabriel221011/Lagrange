@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mejor Carta de Clash Royale
+permalink: /mejor-carta-clash-royale
+---
 # 📄 Carta Favorita de la Comunidad: **EL TRONCO**
 
 ## 🎯 Por qué “El Tronco” suele considerarse una de las cartas más queridas/populares de Clash Royale
