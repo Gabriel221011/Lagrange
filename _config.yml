@@ -21,6 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'La Mejor Página de Clash Royale'
+
 description:	       'Un blog dedicado a Clash Royale, con noticias, estrategias y más, donde los jugadores pueden aprender y compartir sus experiencias.'
 author:              'Gabriel'
 
