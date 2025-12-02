@@ -11,7 +11,7 @@ image: mountains.jpg
 
 ## 🎯 Mazo destacado: **Hog 2.6 Cycle**
 
-![jekyll]({{"/assets/img/imagen10.webp" | absolute_url}})
+![jekyll]({{"/assets/img/Imagen10.webp" | absolute_url}})
 
 Este mazo — conocido como *Hog 2.6* — sigue apareciendo entre los mazos más populares y efectivos del meta actual.
 
@@ -27,7 +27,7 @@ Un ejemplo típico de Hog 2.6 incluye cartas como:
 
 ## ✅ Ventajas del mazo Hog 2.6
 
-![jekyll]({{"/assets/img/imagen12.jpg" | absolute_url}})
+![jekyll]({{"/assets/img/Imagen12.jpg" | absolute_url}})
 
 - **Velocidad y ciclo rápido**: permite reciclar la mano rápido y defender sin gastar mucho elixir.
 - **Presión constante**: Hog Rider permite aplicar presión y obligar al rival a defender.
